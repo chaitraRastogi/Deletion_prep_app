@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "https://<chaitraRastogi>.github.io/<repo>/index.html",
+  "index": "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://<chaitraRastogi>.github.io/<repo>/favicon.ico",
-        "https://<chaitraRastogi>.github.io/<repo>/index.html",
-        "https://<chaitraRastogi>.github.io/<repo>/0.39896c8e9b4364a87e0b.chunk.js",
-        "https://<chaitraRastogi>.github.io/<repo>/inline.f756932a087aee52f06e.bundle.js",
-        "https://<chaitraRastogi>.github.io/<repo>/main.522521f261c863ac14dc.bundle.js",
-        "https://<chaitraRastogi>.github.io/<repo>/polyfills.367619bafcf2473263d3.bundle.js",
-        "https://<chaitraRastogi>.github.io/<repo>/styles.9ba6cccbf4d0fc0cadc5.bundle.css"
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/favicon.ico",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/index.html",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/0.39896c8e9b4364a87e0b.chunk.js",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/inline.f756932a087aee52f06e.bundle.js",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/main.522521f261c863ac14dc.bundle.js",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/polyfills.367619bafcf2473263d3.bundle.js",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/styles.9ba6cccbf4d0fc0cadc5.bundle.css"
       ],
       "patterns": []
     },
@@ -22,22 +22,22 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://<chaitraRastogi>.github.io/<repo>/assets/barcode.wav",
-        "https://<chaitraRastogi>.github.io/<repo>/assets/check.png"
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/assets/barcode.wav",
+        "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/assets/check.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://<chaitraRastogi>.github.io/<repo>/0.39896c8e9b4364a87e0b.chunk.js": "ef7213a5e58a1f4a649b23de66c56177ba72852e",
-    "https://<chaitraRastogi>.github.io/<repo>/assets/barcode.wav": "4ee52f3c854ce7c9dbeb268848fec524c835a9bd",
-    "https://<chaitraRastogi>.github.io/<repo>/inline.f756932a087aee52f06e.bundle.js": "fc0c51a45acf2b60bb12715a024b20eecc36269f",
-    "https://<chaitraRastogi>.github.io/<repo>/assets/check.png": "4b0aad47032c82ae39737778ccd6f23e038ea513",
-    "https://<chaitraRastogi>.github.io/<repo>/main.522521f261c863ac14dc.bundle.js": "2ab2c2aaa3c80c05dd5e15ce38a11fd7711f535c",
-    "https://<chaitraRastogi>.github.io/<repo>/polyfills.367619bafcf2473263d3.bundle.js": "94eacc7801a8894609822bd897ae00591a6383f3",
-    "https://<chaitraRastogi>.github.io/<repo>/styles.9ba6cccbf4d0fc0cadc5.bundle.css": "49c7236de095d8cb2dbcb7ee3504ccb4f9394778",
-    "https://<chaitraRastogi>.github.io/<repo>/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://<chaitraRastogi>.github.io/<repo>/index.html": "3785384b7a4f2fde2d3aa81fdfff0212745354b7"
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/0.39896c8e9b4364a87e0b.chunk.js": "ef7213a5e58a1f4a649b23de66c56177ba72852e",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/assets/barcode.wav": "4ee52f3c854ce7c9dbeb268848fec524c835a9bd",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/inline.f756932a087aee52f06e.bundle.js": "fc0c51a45acf2b60bb12715a024b20eecc36269f",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/assets/check.png": "4b0aad47032c82ae39737778ccd6f23e038ea513",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/main.522521f261c863ac14dc.bundle.js": "2ab2c2aaa3c80c05dd5e15ce38a11fd7711f535c",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/polyfills.367619bafcf2473263d3.bundle.js": "94eacc7801a8894609822bd897ae00591a6383f3",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/styles.9ba6cccbf4d0fc0cadc5.bundle.css": "49c7236de095d8cb2dbcb7ee3504ccb4f9394778",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://<chaitraRastogi>.github.io/<Deletion_prep_app>/index.html": "e6aacb04ae6553290be67d42b6f7ffb42db7b740"
   }
 }
